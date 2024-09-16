@@ -1,0 +1,16 @@
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\bin\Debug\net8.0-windows\MayTinhCalculate.exe
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\bin\Debug\net8.0-windows\MayTinhCalculate.deps.json
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\bin\Debug\net8.0-windows\MayTinhCalculate.runtimeconfig.json
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\bin\Debug\net8.0-windows\MayTinhCalculate.dll
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\bin\Debug\net8.0-windows\MayTinhCalculate.pdb
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.Form1.resources
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.csproj.GenerateResource.cache
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.AssemblyInfoInputs.cache
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.AssemblyInfo.cs
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.csproj.CoreCompileInputs.cache
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.dll
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\refint\MayTinhCalculate.dll
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.pdb
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\MayTinhCalculate.genruntimeconfig.cache
+D:\Bai Tap UIT\MayTinhCalculate\MayTinhCalculate\obj\Debug\net8.0-windows\ref\MayTinhCalculate.dll

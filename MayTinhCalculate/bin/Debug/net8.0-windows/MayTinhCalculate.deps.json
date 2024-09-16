@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MayTinhCalculate/1.0.0": {
+        "runtime": {
+          "MayTinhCalculate.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MayTinhCalculate/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
